@@ -1,3 +1,3 @@
-module gitlab.com/gudir/go-say-hello
+module github.com/kufle/go-say-hello
 
 go 1.21.1
